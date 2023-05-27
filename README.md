@@ -1,4 +1,4 @@
-# Ohio Calculator App (No Stable Verson Yet)
+# Ohio Calculator App (No Stable Version Yet)
 
 Does some basic arithmetic Addition, Substraction, Division and Multiplication.
 
